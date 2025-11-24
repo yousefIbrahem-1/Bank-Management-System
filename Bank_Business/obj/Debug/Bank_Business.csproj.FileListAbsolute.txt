@@ -1,0 +1,9 @@
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\obj\Debug\Bank_Business.csproj.AssemblyReference.cache
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\obj\Debug\Bank_Business.csproj.CoreCompileInputs.cache
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\bin\Debug\Bank_Business.dll
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\bin\Debug\Bank_Business.pdb
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\bin\Debug\Bank_DataAccess.dll
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\bin\Debug\Bank_DataAccess.pdb
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\obj\Debug\Bank_Bus.9422DBDA.Up2Date
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\obj\Debug\Bank_Business.dll
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_Business\obj\Debug\Bank_Business.pdb

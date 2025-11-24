@@ -1,0 +1,6 @@
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\bin\Debug\Bank_DataAccess.dll
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\bin\Debug\Bank_DataAccess.pdb
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\obj\Debug\Bank_DataAccess.csproj.AssemblyReference.cache
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\obj\Debug\Bank_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\obj\Debug\Bank_DataAccess.dll
+C:\Users\yoseef eprahem\source\repos\BankManagementSystem\Bank_DataAccess\obj\Debug\Bank_DataAccess.pdb
