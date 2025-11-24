@@ -89,7 +89,7 @@ The project follows a **Clean, Layered Architecture** with the following layers:
 ---
 
 ## Project Structure
-
+```
 BankManagementSystem/
 │
 ├── Bank/ # Presentation Layer (Windows Forms)
@@ -110,6 +110,7 @@ BankManagementSystem/
 ├── Repositories/ # CRUD operations
 ├── Connection.cs # Database connection
 └── DTOs/ # Data transfer objects
+```
 ---
 
 ## Features
@@ -172,7 +173,7 @@ BankManagementSystem/
 ```bash
 git clone <repository-url>
 cd BankManagementSystem
-
+```
 2. **Import Database**
 
 * Restore the SQL `.bak` or run the `.sql` file
